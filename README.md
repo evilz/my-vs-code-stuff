@@ -12,6 +12,7 @@
 
 - REST Client : https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 - Todo Highlighter : https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+- Coverage Gutters : https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters
 
 ### Javascript / Typescript
 
