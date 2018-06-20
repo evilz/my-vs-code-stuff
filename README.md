@@ -27,7 +27,7 @@
 - Bracket Pair Colorizer : https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 - Indent Rainbow : https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
 - Import Cost : https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
-
+- Version Lens : https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
 - vscode-styled-components : https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
 
 ### Git
